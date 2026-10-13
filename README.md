@@ -1,4 +1,4 @@
-<img width="1459" 高度="579" 替代文本="20260425104715100" 源地址=“https://github.com/user-attachments/assets/04a77b8a-108c-43ea-aa39-faa2c91af0ab” />#PHP求职招聘平台微信系统源码小程序-ym7k
+# PHP求职招聘平台微信系统源码小程序-ym7k
 获取源码：ym7k.com/11804/PHP求职招聘平台微信系统源码小程序-ym7k
 
 
@@ -11,6 +11,6 @@
 
 冷启动阶段，新用户推荐热门职位，新职位利用描述关键词与简历库匹配实现快速曝光。智能匹配是招聘系统提升匹配效率的核心能力。
 
-![正在上传 2026042510472026.png…]()
+
 <img width="1920" height="1169" alt="202604251047354" src="https://github.com/user-attachments/assets/87b225c4-90df-4b2c-ba62-be06c13aac2f" />
-![正在上传 20260425104715100.png…]()
+
